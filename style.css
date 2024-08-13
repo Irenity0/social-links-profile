@@ -55,6 +55,11 @@ body {
     padding: 1rem 2rem;
 }
 
+.link:active {
+    background-color: #a9c162;
+    color: #141414;
+}
+
 @media screen and (max-width: 768px) {
     .card {
         width: 40%;
