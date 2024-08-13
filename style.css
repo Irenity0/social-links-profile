@@ -54,3 +54,15 @@ body {
     margin: .75rem;
     padding: 1rem 2rem;
 }
+
+@media screen and (max-width: 768px) {
+    .card {
+        width: 40%;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .card {
+        width: 70%;
+    }
+}
